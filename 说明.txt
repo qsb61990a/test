@@ -1,0 +1,11 @@
+使用eclipse提交或者下载项目的顺序是这样的：
+1.必须先配置git
+2.新建一个项目把项目传到git上。
+3.提交到git上。
+4.之后再下载项目才会直接导入到eclipse。
+
+参考资料：
+第一步：（上传项目）https://www.cnblogs.com/wzyxidian/p/5520068.html
+
+第二部：（下载项目）https://blog.csdn.net/u012052268/article/details/79160478
+
